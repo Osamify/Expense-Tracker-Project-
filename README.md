@@ -43,3 +43,8 @@ Expense Tracker is a web application that allows the user to insert new expenses
 ## What was the hardest part?
 
 The most difficult challenge was managing the deeply nested HTML structure required by Bootstrap. Aligning responsive elements often meant nesting multiple div containers for rows, columns, and flexbox utilities, which complicated the DOM tree. I overcame this through consistent practice, experimenting with different layout structures, and building familiarity with Bootstrap's grid system behavior.
+
+
+## Project Demonstration Video
+
+[Watch the Expense Tracker Demo Video](https://1drv.ms/v/c/f88f816a97a75f25/IQCd43uHvkAgRKNnk9nBAqHXAXo3rHbPnMe1gKe6eDG74lE?e=Aydkuw)
